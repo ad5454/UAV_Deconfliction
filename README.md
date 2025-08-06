@@ -42,7 +42,6 @@ ________________________________________
 ├── primary_mission.json          # Main drone path (3D + time)
 ├── simulated_flights.json        # Multiple other UAVs
 ├── uav_deconfliction_4D_sim.mp4  # Output animation
-├── uav_mission_map.html          # Realistic interactive map
 ________________________________________
 📽 Output
 •	Static 3D Graphs: All drone paths + conflict points (X)
